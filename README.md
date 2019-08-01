@@ -1,5 +1,5 @@
-# Internet_NewBook_Boards
-Internet_NewBook_Boards
+# Python_Internet_NewBook_Boards
+Python_Internet_NewBook_Boards
 
 # 爬博客來新書排行榜資訊
 程式執行後會依序從中文書新書分類第一個分類開始，取得所有頁面中新書的詳細資訊，第一分類完成後再進入下一個分類，重複同樣的動作，直到全部下載完儲存到Excel檔案為止。
